@@ -138,15 +138,12 @@ const karim = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimovx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimovx&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimovx&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kimovx&theme=tokyonight&hide_border=true" height="165" />
 </div>
-
-> ⚠️ Stats cards depend on third-party services and may occasionally be unavailable.
 
 ---
 
