@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:512BD4&height=180&section=header&text=Karim%20Hossam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Angular%20%26%20.NET&descAlignY=58&descSize=18" width="100%" />
+# Karim Hossam
 
-<br/>
+**Full Stack Engineer · Angular & .NET**
+
+*Building scalable SaaS platforms, clean APIs, and real-time systems*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karim-hossam.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-h-14a36b320)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.hossam.essa@gmail.com)
-
-<br/>
 
 </div>
 
@@ -138,13 +138,15 @@ const karim = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimovx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimovx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kimovx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimovx&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kimovx&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Kimovx&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
+> ⚠️ Stats cards depend on third-party services and may occasionally be unavailable.
 
 ---
 
@@ -152,9 +154,7 @@ const karim = {
 
 **Open to freelance projects and full-time opportunities**
 
-[![Email](https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.hossam.essa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karim-hossam.vercel.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=100&section=footer" width="100%" />
+[![Let's Talk](https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.hossam.essa@gmail.com)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karim-hossam.vercel.app)
 
 </div>
