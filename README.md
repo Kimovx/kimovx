@@ -66,6 +66,8 @@ const karim = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -132,6 +134,23 @@ const karim = {
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Data Analysis Experience
+
+### 📊 EPC Transmission Line — Weekly Reporting Dashboard
+*Project Controls Data Analyst · 2025 – Present*
+
+Designed and delivered a fully integrated weekly reporting dashboard for a high-voltage overhead transmission line EPC project, translating raw schedule and cost data into actionable insights for senior management.
+
+- 📉 Performed **variance analysis & SPI calculations** across Engineering, Procurement, and Site Works — identifying critical schedule delays of up to **−54 days** against baseline milestones
+- 📊 Built **S-curve models** (planned vs. actual vs. remaining) tracking cost and progress across a multi-million SAR project budget
+- 🗂️ Aggregated and cleaned multi-source data (schedule, procurement, cost) into a unified weekly reporting model covering **4 disciplines & 30+ procurement items**
+- 🔍 Developed visual KPI dashboards including activity status breakdowns, discipline-level progress tracking, and 4-week lookahead schedules
+- ⚠️ Documented and escalated **Areas of Concern (AOC)**, distinguishing internal vs. external risk drivers to support contract amendment decisions
+
+**Skills:** Dashboard Development · Variance Analysis · S-Curve Modelling · KPI Reporting · EPC Project Controls · Data Storytelling
 
 ---
 
